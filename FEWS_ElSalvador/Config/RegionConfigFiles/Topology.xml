@@ -131,7 +131,7 @@
 				<workflowId>HBV_ForecastDA_WRFE</workflowId>
 				<localRun>false</localRun>
 			</node>
-			<node id="ForecastRunDA-WRFF" name="Pronóstico WRFf">
+			<node id="ForecastRunDA-WRFF" name="Pronóstico WRFF">
 				<workflowId>HBV_ForecastDA_WRFF</workflowId>
 				<localRun>false</localRun>
 			</node>

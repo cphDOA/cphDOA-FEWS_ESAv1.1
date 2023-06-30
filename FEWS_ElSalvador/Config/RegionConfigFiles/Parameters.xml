@@ -20,7 +20,7 @@
 	<parameterGroup id="Evapotranspiración potencial">
 		<parameterType>instantaneous</parameterType>
 		<unit>mm</unit>
-		<valueResolution>0.1</valueResolution>
+		<valueResolution>0.01</valueResolution>
 		<parameter id="E.obs" name="E.obs">
 			<shortName>E</shortName>
 		</parameter>
