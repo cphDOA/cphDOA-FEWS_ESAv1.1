@@ -7,7 +7,7 @@
 			<valueType>scalar</valueType>
 			<parameterId>P.pro.acc</parameterId>
 			<qualifierId>GEFS</qualifierId>
-			<locationSetId>SubbasinLempa_model</locationSetId>
+			<locationSetId>Basins</locationSetId>
 			<timeSeriesType>simulated forecasting</timeSeriesType>
 			<timeStep unit="hour" multiplier="6"/>
 			<readWriteMode>read complete forecast</readWriteMode>
@@ -21,7 +21,7 @@
 			<valueType>scalar</valueType>
 			<parameterId>P.pro.acc</parameterId>
 			<qualifierId>perc00</qualifierId>
-			<locationSetId>SubbasinLempa_model</locationSetId>
+			<locationSetId>Basins</locationSetId>
 			<timeSeriesType>simulated forecasting</timeSeriesType>
 			<timeStep unit="hour" multiplier="6"/>
 			<readWriteMode>read complete forecast</readWriteMode>
@@ -34,7 +34,7 @@
 			<valueType>scalar</valueType>
 			<parameterId>P.pro.acc</parameterId>
 			<qualifierId>perc10</qualifierId>
-			<locationSetId>SubbasinLempa_model</locationSetId>
+			<locationSetId>Basins</locationSetId>
 			<timeSeriesType>simulated forecasting</timeSeriesType>
 			<timeStep unit="hour" multiplier="6"/>
 			<readWriteMode>read complete forecast</readWriteMode>
@@ -47,7 +47,7 @@
 			<valueType>scalar</valueType>
 			<parameterId>P.pro.acc</parameterId>
 			<qualifierId>perc20</qualifierId>
-			<locationSetId>SubbasinLempa_model</locationSetId>
+			<locationSetId>Basins</locationSetId>
 			<timeSeriesType>simulated forecasting</timeSeriesType>
 			<timeStep unit="hour" multiplier="6"/>
 			<readWriteMode>read complete forecast</readWriteMode>
@@ -60,7 +60,7 @@
 			<valueType>scalar</valueType>
 			<parameterId>P.pro.acc</parameterId>
 			<qualifierId>perc33</qualifierId>
-			<locationSetId>SubbasinLempa_model</locationSetId>
+			<locationSetId>Basins</locationSetId>
 			<timeSeriesType>simulated forecasting</timeSeriesType>
 			<timeStep unit="hour" multiplier="6"/>
 			<readWriteMode>read complete forecast</readWriteMode>
@@ -73,7 +73,7 @@
 			<valueType>scalar</valueType>
 			<parameterId>P.pro.acc</parameterId>
 			<qualifierId>perc50</qualifierId>
-			<locationSetId>SubbasinLempa_model</locationSetId>
+			<locationSetId>Basins</locationSetId>
 			<timeSeriesType>simulated forecasting</timeSeriesType>
 			<timeStep unit="hour" multiplier="6"/>
 			<readWriteMode>read complete forecast</readWriteMode>
@@ -86,7 +86,7 @@
 			<valueType>scalar</valueType>
 			<parameterId>P.pro.acc</parameterId>
 			<qualifierId>perc67</qualifierId>
-			<locationSetId>SubbasinLempa_model</locationSetId>
+			<locationSetId>Basins</locationSetId>
 			<timeSeriesType>simulated forecasting</timeSeriesType>
 			<timeStep unit="hour" multiplier="6"/>
 			<readWriteMode>read complete forecast</readWriteMode>
@@ -99,7 +99,7 @@
 			<valueType>scalar</valueType>
 			<parameterId>P.pro.acc</parameterId>
 			<qualifierId>perc80</qualifierId>
-			<locationSetId>SubbasinLempa_model</locationSetId>
+			<locationSetId>Basins</locationSetId>
 			<timeSeriesType>simulated forecasting</timeSeriesType>
 			<timeStep unit="hour" multiplier="6"/>
 			<readWriteMode>read complete forecast</readWriteMode>
@@ -112,7 +112,7 @@
 			<valueType>scalar</valueType>
 			<parameterId>P.pro.acc</parameterId>
 			<qualifierId>perc90</qualifierId>
-			<locationSetId>SubbasinLempa_model</locationSetId>
+			<locationSetId>Basins</locationSetId>
 			<timeSeriesType>simulated forecasting</timeSeriesType>
 			<timeStep unit="hour" multiplier="6"/>
 			<readWriteMode>read complete forecast</readWriteMode>
@@ -125,7 +125,7 @@
 			<valueType>scalar</valueType>
 			<parameterId>P.pro.acc</parameterId>
 			<qualifierId>perc100</qualifierId>
-			<locationSetId>SubbasinLempa_model</locationSetId>
+			<locationSetId>Basins</locationSetId>
 			<timeSeriesType>simulated forecasting</timeSeriesType>
 			<timeStep unit="hour" multiplier="6"/>
 			<readWriteMode>read complete forecast</readWriteMode>
