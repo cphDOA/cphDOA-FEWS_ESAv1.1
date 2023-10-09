@@ -6,4 +6,5 @@ Este repositorio está pensado como plataforma para compartir información y par
 
 La primera versión del sistema está basada en la configuración actual pero obsoleta de la plataforma. 
 
-última actualización: 7 de febrero del 2022
+última actualización: Julio2023
+Ultima Actualizacion realizada por Rodolfo durante el proceso de elaboración de ppt a GHI
