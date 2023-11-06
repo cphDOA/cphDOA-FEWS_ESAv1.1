@@ -6,5 +6,6 @@ Este repositorio está pensado como plataforma para compartir información y par
 
 La primera versión del sistema está basada en la configuración actual pero obsoleta de la plataforma. 
 
-última actualización: Julio2023
-Ultima Actualizacion realizada por Rodolfo durante el proceso de elaboración de ppt a GHI
+última actualización: Octubre 2023
+Ultima Actualizacion realizada por Adriel durante el proceso de elaboración POA 2023
+Se incluyen los modelos PAZ Y GOASCORAN
